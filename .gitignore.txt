@@ -1,14 +1,25 @@
-# Unity generated folders
-Library/
-Temp/
-Obj/
-Build/
-Builds/
-Logs/
-MemoryCaptures/
+# === Unity generated folders ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
 UserSettings/
 
-# IDE/Editor
+# === Unity temporary/lock files ===
+Temp/FSTimeGet-*
+Temp/UnityLockfile
+Temp/workerlic
+Logs/shadercomp*.log
+Library/ArtifactDB
+Library/SourceAssetDB
+Library/EditorInstance.json
+UserSettings/*.dwlt
+*.pidb
+
+# === IDE/Editor files ===
 .vscode/
 .vsconfig
 .idea/
@@ -18,9 +29,8 @@ UserSettings/
 *.userprefs
 *.suo
 *.tmp
-*.pidb
 *.svd
 *.booproj
 
-# Git
+# === Git itself ===
 .gitignore
