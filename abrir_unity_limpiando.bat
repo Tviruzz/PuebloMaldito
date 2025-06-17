@@ -1,0 +1,6 @@
+@echo off
+echo Limpiando archivos ignorados por Git...
+powershell -ExecutionPolicy Bypass -File "limpiar_git_unity.ps1"
+
+echo Abriendo proyecto Unity...
+start "" "C:\Program Files\Unity\Hub\Editor\6000.1.7f1\Editor\Unity.exe" -projectPath "C:\Users\isaac\OneDrive\Desktop\Pueblo maldito\Pueblo Maldito\Pueblo_Maldito"
