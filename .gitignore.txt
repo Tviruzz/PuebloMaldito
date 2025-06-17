@@ -1,0 +1,26 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+UserSettings/
+
+# IDE/Editor
+.vscode/
+.vsconfig
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.suo
+*.tmp
+*.pidb
+*.svd
+*.booproj
+
+# Git
+.gitignore
