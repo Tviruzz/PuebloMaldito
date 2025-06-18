@@ -9,6 +9,16 @@
     "C:\\Program Files\\Unity\\Hub\\Editor\\6000.1.7f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
+    "com.unity.2d.sprite@1.0.0": {
+      "name": "com.unity.2d.sprite",
+      "displayName": "2D Sprite",
+      "resolvedPath": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Library\\PackageCache\\com.unity.2d.sprite@5eb30061d420",
+      "fingerprint": "5eb30061d42006925d91d40a6a8fca10bd64bbee",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
     "com.unity.cinemachine@3.1.0": {
       "name": "com.unity.cinemachine",
       "displayName": "Cinemachine",
@@ -537,16 +547,6 @@
       "editorCompatibility": "6000.1.0a9",
       "version": "10.1.1",
       "source": "registry",
-      "testable": false
-    },
-    "com.unity.2d.sprite@1.0.0": {
-      "name": "com.unity.2d.sprite",
-      "displayName": "2D Sprite",
-      "resolvedPath": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Library\\PackageCache\\com.unity.2d.sprite@5eb30061d420",
-      "fingerprint": "5eb30061d42006925d91d40a6a8fca10bd64bbee",
-      "editorCompatibility": "2019.2.0a1",
-      "version": "1.0.0",
-      "source": "builtin",
       "testable": false
     },
     "com.unity.2d.spriteshape@11.0.0": {
