@@ -1,38 +1,38 @@
-﻿using UnityEngine;
+﻿
+using UnityEngine;
 using UnityEngine.InputSystem;
 
+[RequireComponent(typeof(Rigidbody2D))]
+[RequireComponent(typeof(Animator))]
 public class PlayerInputMovement : MonoBehaviour
 {
     public float moveSpeed = 5f;
+
     private Vector2 moveInput;
     private Rigidbody2D rb;
     private Animator animator;
 
-    void Start()
+    private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
     }
 
-    // Este método se llama automáticamente por Send Messages
-    public void OnMove(InputValue value)
+    public void OnMove(InputAction.CallbackContext context)
     {
-        moveInput = value.Get<Vector2>();
+        moveInput = context.ReadValue<Vector2>();
 
-        // Solo activa animaciones si hay movimiento
-        bool isMoving = moveInput.sqrMagnitude > 0.01f;
-        animator.SetBool("IsMoving", isMoving);
-
-        // Dirección (opcional si quieres orientar)
-        if (isMoving)
-        {
-            animator.SetFloat("MoveX", moveInput.x);
-            animator.SetFloat("MoveY", moveInput.y);
-        }
+        animator.SetFloat("MoveX", moveInput.x);
+        animator.SetFloat("MoveY", moveInput.y);
+        animator.SetBool("IsMoving", moveInput.magnitude > 0.01f);  // Filtro pequeño para evitar "0"
     }
 
-    void FixedUpdate()
+    private void FixedUpdate()
     {
+        Debug.Log("MoveX: " + moveInput.x + ", MoveY: " + moveInput.y);
+        animator.SetBool("IsMoving", moveInput != Vector2.zero);
+        animator.SetFloat("MoveX", moveInput.x);
+        animator.SetFloat("MoveY", moveInput.y);
         rb.MovePosition(rb.position + moveInput * moveSpeed * Time.fixedDeltaTime);
     }
 }
