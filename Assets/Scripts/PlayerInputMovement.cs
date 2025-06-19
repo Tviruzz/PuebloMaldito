@@ -1,5 +1,4 @@
-﻿
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.InputSystem;
 
 [RequireComponent(typeof(Rigidbody2D))]
@@ -18,21 +17,22 @@ public class PlayerInputMovement : MonoBehaviour
         animator = GetComponent<Animator>();
     }
 
+    // Input System: se llama automáticamente desde el PlayerInput
     public void OnMove(InputAction.CallbackContext context)
     {
         moveInput = context.ReadValue<Vector2>();
 
-        animator.SetFloat("MoveX", moveInput.x);
-        animator.SetFloat("MoveY", moveInput.y);
-        animator.SetBool("IsMoving", moveInput.magnitude > 0.01f);  // Filtro pequeño para evitar "0"
+        // Establece animaciones solo si el Animator existe
+        if (animator != null)
+        {
+            animator.SetFloat("MoveX", moveInput.x);
+            animator.SetFloat("MoveY", moveInput.y);
+            animator.SetBool("IsMoving", moveInput.magnitude > 0.1f);
+        }
     }
 
     private void FixedUpdate()
     {
-        Debug.Log("MoveX: " + moveInput.x + ", MoveY: " + moveInput.y);
-        animator.SetBool("IsMoving", moveInput != Vector2.zero);
-        animator.SetFloat("MoveX", moveInput.x);
-        animator.SetFloat("MoveY", moveInput.y);
         rb.MovePosition(rb.position + moveInput * moveSpeed * Time.fixedDeltaTime);
     }
 }
