@@ -17,22 +17,23 @@ public class PlayerInputMovement : MonoBehaviour
         animator = GetComponent<Animator>();
     }
 
-    // Input System: se llama automáticamente desde el PlayerInput
     public void OnMove(InputAction.CallbackContext context)
     {
         moveInput = context.ReadValue<Vector2>();
 
-        // Establece animaciones solo si el Animator existe
-        if (animator != null)
-        {
-            animator.SetFloat("MoveX", moveInput.x);
-            animator.SetFloat("MoveY", moveInput.y);
-            animator.SetBool("IsMoving", moveInput.magnitude > 0.1f);
-        }
+        // Actualiza el Animator con los valores de dirección
+        animator.SetFloat("MoveX", moveInput.x);
+        animator.SetFloat("MoveY", moveInput.y);
+
+        // Solo activa animaciones de caminar si hay movimiento
+        animator.SetBool("IsMoving", moveInput.magnitude > 0.1f);
     }
 
     private void FixedUpdate()
     {
-        rb.MovePosition(rb.position + moveInput * moveSpeed * Time.fixedDeltaTime);
+        if (moveInput != Vector2.zero)
+        {
+            rb.MovePosition(rb.position + moveInput * moveSpeed * Time.fixedDeltaTime);
+        }
     }
 }
