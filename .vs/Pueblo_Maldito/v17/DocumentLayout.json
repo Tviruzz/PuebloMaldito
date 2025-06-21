@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|c:\\users\\isaac\\onedrive\\desktop\\pueblo maldito\\pueblo maldito\\pueblo_maldito\\assets\\scripts\\weaponswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\assets\\scripts\\playerinputmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinputmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|c:\\users\\isaac\\onedrive\\desktop\\pueblo maldito\\pueblo maldito\\pueblo_maldito\\assets\\scripts\\weaponfollowdirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weaponfollowdirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|c:\\users\\isaac\\onedrive\\desktop\\pueblo maldito\\pueblo maldito\\pueblo_maldito\\assets\\scripts\\weapons\\weapondisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\weapondisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\assets\\scripts\\weaponswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weaponswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|c:\\users\\isaac\\onedrive\\desktop\\pueblo maldito\\pueblo maldito\\pueblo_maldito\\assets\\scripts\\weapons\\pickupweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\assets\\scripts\\weapons\\pickupweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\pickupweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|c:\\users\\isaac\\onedrive\\desktop\\pueblo maldito\\pueblo maldito\\pueblo_maldito\\assets\\scripts\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\assets\\scripts\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\assets\\scripts\\weapons\\weapondisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\weapondisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\assets\\scripts\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,14 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\assets\\scripts\\quickslotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\quickslotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\assets\\scripts\\playerinputmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinputmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFEAA28-D690-F16A-4EF5-184462FF12BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,50 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeaponSwitcher.cs",
-              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Assets\\Scripts\\WeaponSwitcher.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponSwitcher.cs",
-              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Assets\\Scripts\\WeaponSwitcher.cs",
-              "RelativeToolTip": "Assets\\Scripts\\WeaponSwitcher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T01:04:07.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PlayerInventory.cs",
-              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Assets\\Scripts\\PlayerInventory.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInventory.cs",
-              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Assets\\Scripts\\PlayerInventory.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerInventory.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEcAAAAAAAAAAAAAAA==",
+              "Title": "WeaponFollowDirection.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Assets\\Scripts\\WeaponFollowDirection.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponFollowDirection.cs",
+              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Assets\\Scripts\\WeaponFollowDirection.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponFollowDirection.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBEAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T00:42:34.486Z",
+              "WhenOpened": "2025-06-21T06:21:45.37Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PickupWeapon.cs",
-              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Assets\\Scripts\\Weapons\\PickupWeapon.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\PickupWeapon.cs",
-              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Assets\\Scripts\\Weapons\\PickupWeapon.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Weapons\\PickupWeapon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T00:41:25.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "InventorySlot.cs",
               "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Assets\\Scripts\\InventorySlot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InventorySlot.cs",
@@ -97,12 +75,11 @@
               "RelativeToolTip": "Assets\\Scripts\\InventorySlot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T22:24:27.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T22:24:27.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "QuickSlotManager.cs",
               "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Assets\\Scripts\\QuickSlotManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\QuickSlotManager.cs",
@@ -111,6 +88,56 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-19T22:10:03.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T00:59:02.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerInputMovement.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Assets\\Scripts\\PlayerInputMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInputMovement.cs",
+              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Assets\\Scripts\\PlayerInputMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInputMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T01:51:14.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PickupWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Assets\\Scripts\\Weapons\\PickupWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\PickupWeapon.cs",
+              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Assets\\Scripts\\Weapons\\PickupWeapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\PickupWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:41:25.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeaponSwitcher.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Assets\\Scripts\\WeaponSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponSwitcher.cs",
+              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Assets\\Scripts\\WeaponSwitcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponSwitcher.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T01:04:07.01Z"
             },
             {
               "$type": "Document",
@@ -127,7 +154,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
+              "Title": "PlayerInventory.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Assets\\Scripts\\PlayerInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInventory.cs",
+              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Assets\\Scripts\\PlayerInventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInventory.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:42:34.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "WeaponData.cs",
               "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Assets\\Scripts\\Weapons\\WeaponData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\WeaponData.cs",
@@ -136,30 +175,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-19T20:46:25.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PlayerInputMovement.cs",
-              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Assets\\Scripts\\PlayerInputMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInputMovement.cs",
-              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Assets\\Scripts\\PlayerInputMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerInputMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:51:14.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
-              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Desktop\\Pueblo maldito\\Pueblo Maldito\\Pueblo_Maldito\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T00:59:02.538Z"
             }
           ]
         }

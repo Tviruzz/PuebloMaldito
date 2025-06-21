@@ -10,6 +10,7 @@ public class PlayerInputMovement : MonoBehaviour
     private Vector2 moveInput;
     private Rigidbody2D rb;
     private Animator animator;
+    public Vector2 MoveInput => moveInput;
 
     private void Awake()
     {

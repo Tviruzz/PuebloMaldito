@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
 
+
 public class WeaponSwitcher : MonoBehaviour
 {
     public Image[] weaponSlots;
